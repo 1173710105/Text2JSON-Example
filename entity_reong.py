@@ -26,3 +26,4 @@ if __name__ == '__main__':
     # 对问句进行预处理，进行时间识别，单位识别
     handle_question = entity_recognition(question)
     print(handle_question)
+
